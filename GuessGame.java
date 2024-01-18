@@ -1,4 +1,4 @@
-// guass the number game task provided bt technohacks
+// guass the number game task provided by technohacks
 import java.util.*;
 public class GuessGame {
 
